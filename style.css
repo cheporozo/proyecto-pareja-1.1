@@ -1,0 +1,22 @@
+
+body{
+    background-color: #5f0b0b;
+    text-align: center;
+}
+
+h1{
+    font-size: 60px;
+    color: beige;
+}
+
+h2{
+    color: antiquewhite;
+}
+
+
+h3{
+    font-size: 25px;
+    color: antiquewhite;
+    list-style-position: unset;
+    
+}
